@@ -46,7 +46,7 @@ To set up this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Sushilverma002/VRV-BackendDeveloper-InternTask
-   cd user-management-api
+   cd VRV-BackendDeveloper-InternTask
    ```
 
 2. **Install dependencies**:

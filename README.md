@@ -113,5 +113,6 @@ To set up this project locally, follow these steps:
 {
   "email": "user@example.com",
   "password": "userpassword"
+  "role":"Admin"
 }
 ```
